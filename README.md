@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/7SMc2NX/logo.jpg" alt="DTunnel" style="width: 80px; height: 80px; border-radius: 50%;">
+  <img src="[https://i.ibb.co/7SMc2NX/logo.jpg](https://i.ibb.co/2Fc4sw7/20240326-053651.png)" alt="DTunnel" style="width: 80px; height: 80px; border-radius: 50%;">
 </h1>
 
 <p align="center">
