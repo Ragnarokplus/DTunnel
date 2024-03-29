@@ -56,8 +56,8 @@ class DnsServerModel {
 
     static fromJson(data) {
         const model = new DnsServerModel();
-        model.dns1 = data?.dns1 ?? '8.8.8.8';
-        model.dns2 = data?.dns2 ?? '8.8.4.4';
+        model.dns1 = data?.dns1 ?? '1.1.1.1';
+        model.dns2 = data?.dns2 ?? '1.0.0.1';
         return model;
     }
 }
